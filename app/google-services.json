@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430436184799",
+    "project_id": "edenchat-1804a",
+    "storage_bucket": "edenchat-1804a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430436184799:android:b625ec3f52d111579a6f6a",
+        "android_client_info": {
+          "package_name": "com.example.edenchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430436184799-ldacqu853demjeva09o004c1lj92el48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edenchat",
+            "certificate_hash": "e132d784d5491f11c2377941abf2eaa1be125e5d"
+          }
+        },
+        {
+          "client_id": "430436184799-gsec1uhnliisimihsuhsqrt4covhtn1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPV-GbTCKz003W6tYiFA3HjB8Z6GiMT7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430436184799-gsec1uhnliisimihsuhsqrt4covhtn1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
